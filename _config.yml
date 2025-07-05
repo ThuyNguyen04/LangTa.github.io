@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Làng Ta
+title: Cộng Đồng Làng Ta
 email: email@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   LÀNG TA thành lập với mục đích để mọi người cùng nương tựa nhau, 
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Hoàng Quý Sơn"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
